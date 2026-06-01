@@ -1,0 +1,4 @@
+id,email,status,source,created_at,updated_at
+15151515-1515-4151-8151-151515151001,jane@example.com,subscribed,footer,2026-05-28T00:00:00Z,
+15151515-1515-4151-8151-151515151002,alex@example.com,subscribed,checkout,2026-05-28T00:00:00Z,
+15151515-1515-4151-8151-151515151003,stylefan@example.com,unsubscribed,landing_page,2026-05-28T00:00:00Z,

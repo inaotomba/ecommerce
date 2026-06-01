@@ -1,0 +1,4 @@
+id,order_id,product_id,variant_id,product_name_snapshot,sku_snapshot,size_snapshot,unit_price_snapshot,quantity,line_total,created_at
+13131313-1313-4131-8131-131313131001,12121212-1212-4121-8121-121212121001,aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaa1,bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbb00102,Black Jacket 01,BLACK-JACKET-01-M,M,148,1,148,2026-05-28T00:00:00Z
+13131313-1313-4131-8131-131313131002,12121212-1212-4121-8121-121212121001,aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaa5,bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbb00503,Hoodie 05,HOODIE-05-L,L,98,1,98,2026-05-28T00:00:00Z
+13131313-1313-4131-8131-131313131003,12121212-1212-4121-8121-121212121002,aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaa8,bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbb00801,Archive Cap 08,ARCHIVE-CAP-08-OS,OS,38,1,38,2026-05-28T00:00:00Z

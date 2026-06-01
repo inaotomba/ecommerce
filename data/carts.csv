@@ -1,0 +1,4 @@
+id,profile_id,session_id,status,created_at,updated_at
+ffffffff-ffff-4fff-8fff-fffffffff001,dddddddd-dddd-4ddd-8ddd-ddddddddd001,,active,2026-05-28T00:00:00Z,
+ffffffff-ffff-4fff-8fff-fffffffff002,dddddddd-dddd-4ddd-8ddd-ddddddddd002,,active,2026-05-28T00:00:00Z,
+ffffffff-ffff-4fff-8fff-fffffffff003,,guest-session-demo-001,active,2026-05-28T00:00:00Z,

@@ -1,0 +1,4 @@
+id,variant_id,change_amount,reason,note,created_by,created_at
+17171717-1717-4171-8171-171717171001,bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbb00102,-1,order_created,Order LOCAL-1001,dddddddd-dddd-4ddd-8ddd-ddddddddd003,2026-05-28T00:00:00Z
+17171717-1717-4171-8171-171717171002,bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbb00503,-1,order_created,Order LOCAL-1001,dddddddd-dddd-4ddd-8ddd-ddddddddd003,2026-05-28T00:00:00Z
+17171717-1717-4171-8171-171717171003,bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbb00801,12,restock,Initial cap restock,dddddddd-dddd-4ddd-8ddd-ddddddddd003,2026-05-28T00:00:00Z

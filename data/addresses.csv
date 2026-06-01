@@ -1,0 +1,4 @@
+id,profile_id,type,full_name,phone,address_line_1,address_line_2,city,state,postal_code,country,is_default,created_at,updated_at
+eeeeeeee-eeee-4eee-8eee-eeeeeeeee001,dddddddd-dddd-4ddd-8ddd-ddddddddd001,shipping,Jane Smith,+12025550101,120 Market Street,Apt 4B,New York,NY,10001,United States,true,2026-05-28T00:00:00Z,
+eeeeeeee-eeee-4eee-8eee-eeeeeeeee002,dddddddd-dddd-4ddd-8ddd-ddddddddd001,billing,Jane Smith,+12025550101,120 Market Street,Apt 4B,New York,NY,10001,United States,true,2026-05-28T00:00:00Z,
+eeeeeeee-eeee-4eee-8eee-eeeeeeeee003,dddddddd-dddd-4ddd-8ddd-ddddddddd002,shipping,Alex Carter,+12025550102,42 North Avenue,,Los Angeles,CA,90012,United States,true,2026-05-28T00:00:00Z,

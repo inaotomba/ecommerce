@@ -1,0 +1,4 @@
+id,admin_profile_id,action,entity_type,entity_id,metadata,created_at
+18181818-1818-4181-8181-181818181001,dddddddd-dddd-4ddd-8ddd-ddddddddd003,created,product,aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaa1,"{""note"":""Created Black Jacket 01 sample product""}",2026-05-28T00:00:00Z
+18181818-1818-4181-8181-181818181002,dddddddd-dddd-4ddd-8ddd-ddddddddd003,updated,variant,bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbb00801,"{""field"":""stock_quantity"",""from"":18,""to"":30}",2026-05-28T00:00:00Z
+18181818-1818-4181-8181-181818181003,dddddddd-dddd-4ddd-8ddd-ddddddddd003,read,contact_message,16161616-1616-4161-8161-161616161002,"{""note"":""Marked exchange question as read""}",2026-05-28T00:00:00Z

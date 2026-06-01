@@ -1,0 +1,5 @@
+id,cart_id,product_id,variant_id,quantity,unit_price_snapshot,created_at,updated_at
+99999999-9999-4999-8999-999999990001,ffffffff-ffff-4fff-8fff-fffffffff001,aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaa1,bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbb00102,1,148,2026-05-28T00:00:00Z,
+99999999-9999-4999-8999-999999990002,ffffffff-ffff-4fff-8fff-fffffffff001,aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaa5,bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbb00503,2,98,2026-05-28T00:00:00Z,
+99999999-9999-4999-8999-999999990003,ffffffff-ffff-4fff-8fff-fffffffff002,aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaa8,bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbb00801,1,38,2026-05-28T00:00:00Z,
+99999999-9999-4999-8999-999999990004,ffffffff-ffff-4fff-8fff-fffffffff003,aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaa3,bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbb00302,1,118,2026-05-28T00:00:00Z,

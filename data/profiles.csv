@@ -1,0 +1,4 @@
+id,full_name,email,phone,role,created_at,updated_at
+dddddddd-dddd-4ddd-8ddd-ddddddddd001,Jane Smith,jane@example.com,+12025550101,customer,2026-05-28T00:00:00Z,
+dddddddd-dddd-4ddd-8ddd-ddddddddd002,Alex Carter,alex@example.com,+12025550102,customer,2026-05-28T00:00:00Z,
+dddddddd-dddd-4ddd-8ddd-ddddddddd003,Store Admin,admin@example.com,+12025550103,admin,2026-05-28T00:00:00Z,
